@@ -405,6 +405,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com)
+- [Nihal Nihalani](https://nihalnihalani.github.io/)
 - [Nikita Rusetskii](https://xtenzq.github.io)
 - [Nikita Sobolev](https://sobolevn.me)
 - [Nipun Jain](https://lucifernipun22.github.io)
